@@ -16,4 +16,4 @@ jobs:
       - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://jartigag.blog/feed,https://mastodon.social/@jartigag.rss"
+          feed_list: "https://jartigag.blog/feed"
