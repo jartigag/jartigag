@@ -7,4 +7,4 @@ a lo largo de los años he [programado alguna cosilla](https://javier.artiga.es/
 
 espero tu mensaje! 😊
 
-![jartigag's Github stats](https://github-readme-stats.vercel.app/api?username=jartigag&show_icons=true&theme=transparent&hide_rank=true&hide_border=true&hide_title=true&include_all_commits=true)  |
+![jartigag's Github stats](https://github-readme-stats.vercel.app/api?username=jartigag&show_icons=true&theme=transparent&hide_rank=true&hide_border=true&hide_title=true&include_all_commits=true)
