@@ -4,7 +4,7 @@ podemos hablar por donde mejor te venga: [correo](javier@artiga.es) (aquí está
 
 si prefieres ojear antes qué tengo por ahí publicado, puedes leer lo que escribo en [mi blog](https://jartigag.blog/) o revisar [mi historial laboral](https://mnf.red/jartigag).
 
-a lo largo de los años he [programado bastantes cosillas](https://javier.artiga.es/gh-repos), [grabado algunas canciones](https://javier.artiga.es/rec), [jugado a unos pocos videojuegos](https://fediverse.tv/c/steamdeck/video-playlists), [dibujado algunos datos](https://javier.artiga.es/dataviz) y [leído unos cuantos libros](https://lectura.social/user/jartigag).
+a lo largo de los años he [programado bastantes cosillas](https://javier.artiga.es/gh-repos), he [grabado algunas canciones](https://javier.artiga.es/rec), de vez en cuando he [jugado a unos pocos videojuegos](https://fediverse.tv/c/steamdeck/video-playlists), en ocasiones he [dibujado datos](https://javier.artiga.es/dataviz) y a lo largo de toda mi vida he [leído unos cuantos libros](https://lectura.social/user/jartigag).
 
 te animas a comentarme algo? espero tu mensaje! 😊
 
