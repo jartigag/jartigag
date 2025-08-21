@@ -1,4 +1,4 @@
-👋 uola! me llamo [javier artiga garijo](https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/48cc7bc0-6e64-4f4c-8883-a9056ff2ce8b_carnet2sq.jpg).
+👋 uola! me llamo [javier artiga garijo](https://Javier.artiga.es).
 
 podemos hablar por donde mejor te venga: [correo](mailto:javier@artiga.es) (aquí está [mi pgp](https://javier.artiga.es/javier.artiga.es-public.key.txt), si lo quieres cifrar), [telegram](https://t.me/jartigag) o [mastodon](https://mastodon.social/@jartigag).
 
