@@ -1,12 +1,18 @@
-👋 uola! me llamo [javier artiga garijo](https://Javier.artiga.es).
 
-podemos hablar por donde mejor te venga: [correo](mailto:javier@artiga.es) (aquí está [mi pgp](https://javier.artiga.es/javier.artiga.es-public.key.txt), si lo quieres cifrar), [telegram](https://t.me/jartigag) o [mastodon](https://mastodon.social/@jartigag).
 
-si prefieres ojear antes qué tengo por ahí publicado, puedes leer lo que escribo en [mi blog](https://jartigag.blog/) o revisar [mi historial laboral](https://mnf.red/jartigag).
+👋 uola! me llamo javier artiga garijo.
 
-a lo largo de mi vida he [programado bastantes cosillas](https://javier.artiga.es/gh-repos), he [dibujado datos](https://javier.artiga.es/dataviz), de vez en cuando he [jugado a videojuegos (muy pocos)](https://fediverse.tv/c/steamdeck/video-playlists), he [grabado alguna que otra versión](https://fediverse.tv/w/p/rzEGBUCbXZSJirReRUnKXy?playlistPosition=-1&resume=true) e incluso he compuesto [mis canciones](https://javier.artiga.es/rec).
+podemos hablar por donde mejor te venga: correo (aquí está mi pgp, si lo quieres cifrar), telegram o mastodon.
 
-también, desde hace mucho tiempo y todavía a día de hoy, sigo [jugando al ajedrez](https://lichess.org/@/jartigag/all) (¡anímate y echamos una partida por correspondencia!), [leo unos cuantos libros](https://lectura.social/user/jartigag) cada año, [veo al menos una peli o serie](https://trakt.tv/user/yogurdepina) casi cada mes y [escucho música](https://www.last.fm/user/s2209658/listening-report/week) prácticamente todas las semanas de mi vida.
+si prefieres ojear antes qué tengo por ahí publicado, puedes leer lo que escribo en mi blog.
+
+estudié ingeniería de tele-comunicaciones. después hice un máster universitario y me he sacado las certificaciones que me han pedido (la única a la que me apunté yo sólo porque quise fue al curso de desarrollo de software basado en agile y xp).
+
+para ganarme un sueldo, alquilo mi cabeza por horas en una empresa tecnológica. hasta ahora he trabajado siempre en este sector.
+
+a lo largo de mi carrera he programado código en distintos lenguajes, he administrado servidores, he gestionado equipos y proyectos, he dibujado datos, he grabado actuaciones en directo e incluso he compuesto mis canciones.
+
+también, desde hace mucho tiempo y todavía a día de hoy, sigo jugando al ajedrez (¡anímate y echamos una partida por correspondencia!), de vez en cuando juego a videojuegos (muy pocos), leo unos cuantos libros cada año, veo al menos una peli o serie casi cada mes y escucho música prácticamente todas las semanas de mi vida.
 
 ¿te gustaría empezar una conversación? ¡espero [tu mensaje](mailto:javi@artiga.es)! 😊
 
