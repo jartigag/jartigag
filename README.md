@@ -5,10 +5,15 @@
 podemos hablar por donde mejor te venga: correo (en /javier.artiga.es-public.key.txt está mi pgp, si lo quieres cifrar), telegram o mastodon.
 
 si prefieres ojear antes qué tengo por ahí publicado, puedes leer lo que escribo en mi blog.
+en spotify comparto mis playlists.
+planeo publicar próximamente algunas cosas más. si quieres enterarte el primero, te invito a suscribirte a mi canal de telegram. 
 
-estudié ingeniería de tele-comunicaciones. después hice un máster universitario y me he sacado las certificaciones que me han pedido (la única a la que me apunté yo sólo porque quise fue al curso de desarrollo de software basado en agile y xp).
+estudié ingeniería de telecomunicaciones. después hice un máster universitario y me he sacado las certificaciones que me han pedido
+(la única a la que me apunté yo sólo porque quise fue al curso de desarrollo de software basado en agile y xp).
 
-para ganarme un sueldo, alquilo mi cabeza por horas (podemos [encontrar un hueco para ti](https://calendar.app.google/EqU4dvonG2VbUheF7)) en una empresa tecnológica. hasta ahora he trabajado siempre en este sector. 
+para ganarme un sueldo, alquilo mi cabeza por horas
+(podemos [encontrar un hueco para ti](https://calendar.app.google/EqU4dvonG2VbUheF7)) en una empresa tecnológica.
+hasta ahora he trabajado siempre en este sector. 
 
 a lo largo de mi carrera he programado código en distintos lenguajes, he administrado servidores, he gestionado equipos y proyectos, he dibujado datos, he grabado actuaciones en directo e incluso he compuesto mis canciones.
 
