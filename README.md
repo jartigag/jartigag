@@ -2,7 +2,7 @@
 
 👋 uola! me llamo javier artiga garijo.
 
-podemos hablar por donde mejor te venga: correo (en /javier.artiga.es-public.key.txt está mi pgp, si lo quieres cifrar), telegram o mastodon.
+podemos hablar por donde mejor te venga: correo (en [/javier.artiga.es-public.key.txt](https://javier.artiga.es/javier.artiga.es-public.key.txt) está mi pgp, si lo quieres cifrar), telegram o mastodon.
 
 si prefieres ojear antes qué tengo por ahí publicado, puedes leer lo que escribo en mi blog.
 en spotify comparto mis playlists.
