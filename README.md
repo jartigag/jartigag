@@ -9,7 +9,7 @@ en spotify comparto mis playlists.
 planeo publicar próximamente algunas cosas más. si quieres enterarte el primero, te invito a suscribirte a mi canal de telegram. 
 
 estudié [ingeniería de telecomunicaciones](https://mnf.red/jartigag). después hice un máster universitario y me he sacado las certificaciones que me han pedido
-(la única a la que me apunté yo sólo porque quise fue al curso de desarrollo de software basado en agile y xp).
+(la única a la que me apunté yo sólo porque quise fue al curso de [desarrollo de software basado en agile y xp](https://javier.artiga.es/bikoschool/book/)).
 
 para ganarme un sueldo, alquilo mi cabeza por horas
 (podemos [encontrar un hueco para ti](https://calendar.app.google/EqU4dvonG2VbUheF7)) en una empresa tecnológica.
