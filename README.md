@@ -20,5 +20,3 @@ a lo largo de mi carrera he programado código en distintos lenguajes, he admini
 también, desde hace mucho tiempo y todavía a día de hoy, [sigo jugando al ajedrez](https://lichess.org/jartigag) (¡anímate y echamos una partida por correspondencia!), de vez en cuando juego a videojuegos (muy pocos), leo unos cuantos libros cada año, veo al menos una peli o serie casi cada mes y [escucho música](https://last.fm/user/s2209658) prácticamente todas las semanas de mi vida.
 
 ¿te gustaría empezar una conversación? ¡espero [tu mensaje](mailto:javi@artiga.es)! 😊
-
-![jartigag's Github stats](https://github-readme-stats.vercel.app/api?username=jartigag&show_icons=true&theme=transparent&hide_rank=true&hide_border=true&hide_title=true&include_all_commits=true)
